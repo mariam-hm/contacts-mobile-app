@@ -75,8 +75,8 @@ Even though all the core features are implemented, there are many improvements t
 
 ## Screenshots
 
-![Home screen](https://github.com/mariam-hm/WeUsThem-dev-test/blob/main/screenshots/Screen01.jpg "Home screen")
-![Sorted list](https://github.com/mariam-hm/WeUsThem-dev-test/blob/main/screenshots/Screen02.jpg "Sorted list")
-![Create screen](https://github.com/mariam-hm/WeUsThem-dev-test/blob/main/screenshots/Screen03.jpg "Create screen")
-![Search](https://github.com/mariam-hm/WeUsThem-dev-test/blob/main/screenshots/screen04.jpg "Search")
-![Edit screen](https://github.com/mariam-hm/WeUsThem-dev-test/blob/main/screenshots/screen05.jpg "Edit screen")
+![Home screen](https://github.com/mariam-hm/weusthem-test-dev/blob/main/screenshots/Screen01.jpg "Home screen")
+![Sorted list](https://github.com/mariam-hm/weusthem-test-dev/blob/main/screenshots/Screen02.jpg "Sorted list")
+![Create screen](https://github.com/mariam-hm/weusthem-test-dev/blob/main/screenshots/Screen03.jpg "Create screen")
+![Search](https://github.com/mariam-hm/weusthem-test-dev/blob/main/screenshots/screen04.jpg "Search")
+![Edit screen](https://github.com/mariam-hm/weusthem-test-dev/blob/main/screenshots/screen05.jpg "Edit screen")
