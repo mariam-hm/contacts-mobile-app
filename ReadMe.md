@@ -1,4 +1,4 @@
-# WeUsThem Developer Test
+# Contact Mobile app
 
 Small contacts app that enables user to create, edit and delete contacts, as well as sort and filter them by name or age.
 
